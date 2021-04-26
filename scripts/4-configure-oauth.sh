@@ -2,9 +2,9 @@
 
 # env flags that need to be set:
 CLIENT_ID=6d4a9a1a0d9093864d68
-CLIENT_SECRET=d06bbc028fb0aa8550b82e69dbb3c3933ec18aa0
+CLIENT_SECRET=3b8e587450daa97de57ec3de8440e8d11ab0ac61
 PROVIDER=github
-REDIRECT_URI=http://167.172.156.16:8084/login
+REDIRECT_URI=http://157.230.58.121:8084/login
 
 set -e
 
